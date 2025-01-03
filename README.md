@@ -1,7 +1,3 @@
-# Search_with_keyword
-
-
-
 # File Keyword Search Tool
 
 This Python script provides a graphical user interface (GUI) to search for specific keywords within files in a given directory. It allows you to specify the directory to search, the keywords to look for, the file types to include, and options for recursive searching and case sensitivity. The results, including the filename and the matching lines, are saved to a specified output file.
@@ -41,15 +37,8 @@ This Python script provides a graphical user interface (GUI) to search for speci
 
 ## How to Run
 
-1. Save the Python code to a file, for example, `file_search_tool.py`.
+1. Save the Python code to a file, for example, `search_with_keyword.py`.
 2. Open a terminal or command prompt.
 3. Navigate to the directory where you saved the file.
-4. Run the script using the command: `python file_search_tool.py`
+4. Run the script using the command: `python search_with_keyword.py`
 
-## Contributing
-
-Contributions to this project are welcome! Feel free to fork the repository, make changes, and submit a pull request.
-
-## License
-
-This project is open-source and available under the [Specify License Here, e.g., MIT License].
